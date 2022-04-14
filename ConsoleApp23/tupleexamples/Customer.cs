@@ -10,7 +10,7 @@ namespace tupleexamples
     { 
        public string  name { get; set; }
 
-        public string id { get; set; }
+        public int id { get; set; }
         public string address { get; set; }
 
     }

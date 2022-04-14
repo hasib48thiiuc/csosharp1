@@ -16,6 +16,6 @@ namespace tupleexamples
         public DateTime OrderDate { get; set; }
 
 
-        }
+        
     }
 }
