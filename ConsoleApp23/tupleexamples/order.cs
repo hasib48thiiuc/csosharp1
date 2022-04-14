@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace tupleexamples
 {
-    public  class order
+    public  class Order
     { public int id { get; set; }
         
         public int CustomerId { get; set; }
