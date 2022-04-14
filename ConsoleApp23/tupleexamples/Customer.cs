@@ -4,14 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace ConsoleApp23
+namespace tupleexamples
 {
-   public enum paymentstatus
+    internal class Customer
     {
-        complete=3,
-        partial, 
-        cancel=21100
-
-
     }
 }

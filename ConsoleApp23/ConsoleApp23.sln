@@ -3,7 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.1.32210.238
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp23", "ConsoleApp23\ConsoleApp23.csproj", "{8C0187DE-BCCB-4231-9954-95896329773E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConsoleApp23", "ConsoleApp23\ConsoleApp23.csproj", "{8C0187DE-BCCB-4231-9954-95896329773E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp1", "ConsoleApp1\ConsoleApp1.csproj", "{E2B0595F-E0CB-4015-917B-6B88146A3483}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "tupleexamples", "tupleexamples\tupleexamples.csproj", "{D95F0282-8955-446B-82EE-A23D2EDC11B6}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +19,14 @@ Global
 		{8C0187DE-BCCB-4231-9954-95896329773E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8C0187DE-BCCB-4231-9954-95896329773E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8C0187DE-BCCB-4231-9954-95896329773E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E2B0595F-E0CB-4015-917B-6B88146A3483}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E2B0595F-E0CB-4015-917B-6B88146A3483}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E2B0595F-E0CB-4015-917B-6B88146A3483}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E2B0595F-E0CB-4015-917B-6B88146A3483}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D95F0282-8955-446B-82EE-A23D2EDC11B6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D95F0282-8955-446B-82EE-A23D2EDC11B6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D95F0282-8955-446B-82EE-A23D2EDC11B6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D95F0282-8955-446B-82EE-A23D2EDC11B6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
