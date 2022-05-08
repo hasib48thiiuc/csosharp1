@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\USER\\source\\repos\\ConsoleApp23\\tupleexamples\\tupleexamples.csproj",
+      "projectUniqueName": "C:\\Users\\USER\\source\\repos\\csosharp1\\ConsoleApp23\\tupleexamples\\tupleexamples.csproj",
       "projectName": "tupleexamples",
-      "projectPath": "C:\\Users\\USER\\source\\repos\\ConsoleApp23\\tupleexamples\\tupleexamples.csproj",
+      "projectPath": "C:\\Users\\USER\\source\\repos\\csosharp1\\ConsoleApp23\\tupleexamples\\tupleexamples.csproj",
       "packagesPath": "C:\\Users\\USER\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\USER\\source\\repos\\ConsoleApp23\\tupleexamples\\obj\\",
+      "outputPath": "C:\\Users\\USER\\source\\repos\\csosharp1\\ConsoleApp23\\tupleexamples\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\USER\\AppData\\Roaming\\NuGet\\NuGet.Config",
